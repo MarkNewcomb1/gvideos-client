@@ -3,9 +3,12 @@
 > gVideos
 
 ## Deployed URL
-
 [gVideos](https://g90-videos.firebaseapp.com/)
+
+## Deployed Backend URL
 [Back End Live](https://gvideos-api.herokuapp.com/api/videos)
+
+## Backend Repo
 [Back End Repo](https://github.com/JoshAaronLevy/gvideos-server)
 
 ## Description
